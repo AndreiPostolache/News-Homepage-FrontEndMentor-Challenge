@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AndreiPostolache/My-Portofolio/tree/main/news-homepage-main)
+- Solution URL: [GitHub](https://github.com/AndreiPostolache/News-Homepage-FrontEndMentor-Challenge)
 - Live Site URL: [Netlify](https://strong-quokka-5cd6b4.netlify.app/)
 
 ## My process
