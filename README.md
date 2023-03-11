@@ -26,6 +26,15 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
+
+### About 
+
+To build the project, I used HTML and CSS to create the layout and style the page. I also used JavaScript to create a hamburger menu that appears on smaller screens. The project is fully responsive and adapts to different screen sizes, from desktop to mobile devices.
+
+The challenge required that I ensure the layout was optimized for the interface depending on the user's device screen size. To achieve this, I used a mobile-first approach, starting with a layout for smaller screens and then progressively enhancing it as the screen size increases. I also added hover and focus states for all interactive elements on the page to improve the user experience.
+
+The project allowed me to practice my skills in HTML and CSS layout, responsive design, and JavaScript. It challenged me to pay attention to details such as typography and color choices to ensure a cohesive and visually appealing design.
+
 ### Screenshot
 
 [![News-Homepage-Desktop.png](https://i.postimg.cc/MKdVY7Bx/News-Homepage-Desktop.png)](https://postimg.cc/fJSVz05g)
